@@ -1,0 +1,459 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "category": "SCIENCE",
+      "difficulty": "EASY",
+      "question": "¿Cuál es el planeta más cercano al Sol?",
+      "options": ["Venus", "Mercurio", "Marte", "Júpiter"],
+      "correctAnswer": 1,
+      "explanation": "Mercurio es el planeta más cercano al Sol."
+    },
+    {
+      "id": "2",
+      "category": "HISTORY",
+      "difficulty": "MEDIUM",
+      "question": "¿En qué año llegó Cristóbal Colón a América?",
+      "options": ["1492", "1500", "1488", "1512"],
+      "correctAnswer": 0,
+      "explanation": "Cristóbal Colón llegó a América en 1492."
+    },
+    {
+      "id": "3",
+      "category": "GEOGRAPHY",
+      "difficulty": "EASY",
+      "question": "¿Cuál es la capital de Francia?",
+      "options": ["París", "Lyon", "Marsella", "Burdeos"],
+      "correctAnswer": 0,
+      "explanation": "La capital de Francia es París."
+    },
+    {
+      "id": "4",
+      "category": "SPORTS",
+      "difficulty": "MEDIUM",
+      "question": "¿Cuántos jugadores hay en un equipo de fútbol en el campo?",
+      "options": ["9", "10", "11", "12"],
+      "correctAnswer": 2,
+      "explanation": "Cada equipo tiene 11 jugadores en el campo."
+    },
+    {
+      "id": "5",
+      "category": "ENTERTAINMENT",
+      "difficulty": "EASY",
+      "question": "¿Quién dirigió la película Titanic?",
+      "options": ["Steven Spielberg", "James Cameron", "Ridley Scott", "Peter Jackson"],
+      "correctAnswer": 1,
+      "explanation": "Titanic fue dirigida por James Cameron."
+    },
+    {
+      "id": "6",
+      "category": "SCIENCE",
+      "difficulty": "MEDIUM",
+      "question": "¿Qué gas es más abundante en la atmósfera terrestre?",
+      "options": ["Oxígeno", "Nitrógeno", "CO2", "Hidrógeno"],
+      "correctAnswer": 1,
+      "explanation": "El nitrógeno constituye aproximadamente el 78% de la atmósfera."
+    },
+    {
+      "id": "7",
+      "category": "HISTORY",
+      "difficulty": "EASY",
+      "question": "¿Quién fue el primer emperador romano?",
+      "options": ["Julio César", "Augusto", "Nerón", "Trajano"],
+      "correctAnswer": 1,
+      "explanation": "Augusto fue el primer emperador romano."
+    },
+    {
+      "id": "8",
+      "category": "GEOGRAPHY",
+      "difficulty": "MEDIUM",
+      "question": "¿Qué río pasa por Zaragoza?",
+      "options": ["Tajo", "Ebro", "Duero", "Guadalquivir"],
+      "correctAnswer": 1,
+      "explanation": "El río Ebro atraviesa Zaragoza."
+    },
+    {
+      "id": "9",
+      "category": "SPORTS",
+      "difficulty": "EASY",
+      "question": "¿En qué deporte se usa una raqueta?",
+      "options": ["Baloncesto", "Tenis", "Natación", "Atletismo"],
+      "correctAnswer": 1,
+      "explanation": "El tenis se juega con raqueta."
+    },
+    {
+      "id": "10",
+      "category": "ENTERTAINMENT",
+      "difficulty": "MEDIUM",
+      "question": "¿Cuál es el nombre del mago protagonista de Harry Potter?",
+      "options": ["Ron Weasley", "Harry Potter", "Draco Malfoy", "Neville Longbottom"],
+      "correctAnswer": 1,
+      "explanation": "Harry Potter es el protagonista."
+    },
+
+    {
+      "id": "11",
+      "category": "SCIENCE",
+      "difficulty": "EASY",
+      "question": "¿Cuántos huesos tiene el cuerpo humano adulto aproximadamente?",
+      "options": ["106", "206", "306", "406"],
+      "correctAnswer": 1,
+      "explanation": "Un adulto tiene alrededor de 206 huesos."
+    },
+    {
+      "id": "12",
+      "category": "HISTORY",
+      "difficulty": "HARD",
+      "question": "¿En qué año cayó el Imperio romano de Occidente?",
+      "options": ["476", "410", "395", "509"],
+      "correctAnswer": 0,
+      "explanation": "La caída se sitúa en el año 476."
+    },
+    {
+      "id": "13",
+      "category": "GEOGRAPHY",
+      "difficulty": "EASY",
+      "question": "¿Cuál es el océano más grande?",
+      "options": ["Atlántico", "Índico", "Ártico", "Pacífico"],
+      "correctAnswer": 3,
+      "explanation": "El océano Pacífico es el más grande."
+    },
+    {
+      "id": "14",
+      "category": "SPORTS",
+      "difficulty": "MEDIUM",
+      "question": "¿Cada cuántos años se celebran los Juegos Olímpicos?",
+      "options": ["2", "3", "4", "5"],
+      "correctAnswer": 2,
+      "explanation": "Se celebran cada cuatro años."
+    },
+    {
+      "id": "15",
+      "category": "ENTERTAINMENT",
+      "difficulty": "EASY",
+      "question": "¿Cómo se llama el fontanero protagonista de Nintendo?",
+      "options": ["Luigi", "Mario", "Toad", "Bowser"],
+      "correctAnswer": 1,
+      "explanation": "Mario es el protagonista principal."
+    },
+    {
+      "id": "16",
+      "category": "SCIENCE",
+      "difficulty": "MEDIUM",
+      "question": "¿Cuál es el símbolo químico del oro?",
+      "options": ["Ag", "Au", "O", "Gd"],
+      "correctAnswer": 1,
+      "explanation": "El símbolo del oro es Au."
+    },
+    {
+      "id": "17",
+      "category": "HISTORY",
+      "difficulty": "MEDIUM",
+      "question": "¿Quién fue el dictador de España entre 1939 y 1975?",
+      "options": ["Franco", "Primo de Rivera", "Suárez", "Carrero Blanco"],
+      "correctAnswer": 0,
+      "explanation": "Francisco Franco gobernó en ese periodo."
+    },
+    {
+      "id": "18",
+      "category": "GEOGRAPHY",
+      "difficulty": "HARD",
+      "question": "¿Cuál es el país más grande del mundo por superficie?",
+      "options": ["China", "Canadá", "Estados Unidos", "Rusia"],
+      "correctAnswer": 3,
+      "explanation": "Rusia es el país más grande."
+    },
+    {
+      "id": "19",
+      "category": "SPORTS",
+      "difficulty": "EASY",
+      "question": "¿Cuántos puntos vale un triple en baloncesto?",
+      "options": ["1", "2", "3", "4"],
+      "correctAnswer": 2,
+      "explanation": "Un triple vale tres puntos."
+    },
+    {
+      "id": "20",
+      "category": "ENTERTAINMENT",
+      "difficulty": "MEDIUM",
+      "question": "¿Qué saga cinematográfica incluye a Darth Vader?",
+      "options": ["Star Trek", "Star Wars", "Matrix", "Avatar"],
+      "correctAnswer": 1,
+      "explanation": "Darth Vader aparece en Star Wars."
+    },
+
+    {
+      "id": "21",
+      "category": "SCIENCE",
+      "difficulty": "HARD",
+      "question": "¿Qué partícula subatómica tiene carga negativa?",
+      "options": ["Protón", "Neutrón", "Electrón", "Positrón"],
+      "correctAnswer": 2,
+      "explanation": "El electrón tiene carga negativa."
+    },
+    {
+      "id": "22",
+      "category": "HISTORY",
+      "difficulty": "EASY",
+      "question": "¿En qué país se construyeron las pirámides de Giza?",
+      "options": ["México", "Egipto", "Perú", "Irak"],
+      "correctAnswer": 1,
+      "explanation": "Se construyeron en Egipto."
+    },
+    {
+      "id": "23",
+      "category": "GEOGRAPHY",
+      "difficulty": "MEDIUM",
+      "question": "¿Cuál es la montaña más alta del mundo?",
+      "options": ["K2", "Everest", "Annapurna", "Makalu"],
+      "correctAnswer": 1,
+      "explanation": "El Everest es la más alta."
+    },
+    {
+      "id": "24",
+      "category": "SPORTS",
+      "difficulty": "HARD",
+      "question": "¿Cuántos sets se necesitan ganar en un partido masculino de Grand Slam?",
+      "options": ["2", "3", "4", "5"],
+      "correctAnswer": 1,
+      "explanation": "Se gana al mejor de cinco sets (3 sets)."
+    },
+    {
+      "id": "25",
+      "category": "ENTERTAINMENT",
+      "difficulty": "EASY",
+      "question": "¿Qué instrumento tiene teclas blancas y negras?",
+      "options": ["Guitarra", "Piano", "Violín", "Flauta"],
+      "correctAnswer": 1,
+      "explanation": "El piano tiene teclas blancas y negras."
+    },
+    {
+      "id": "26",
+      "category": "SCIENCE",
+      "difficulty": "MEDIUM",
+      "question": "¿Qué órgano bombea la sangre?",
+      "options": ["Pulmón", "Cerebro", "Corazón", "Hígado"],
+      "correctAnswer": 2,
+      "explanation": "El corazón bombea la sangre."
+    },
+    {
+      "id": "27",
+      "category": "HISTORY",
+      "difficulty": "MEDIUM",
+      "question": "¿Qué muro cayó en 1989 simbolizando el fin de la Guerra Fría?",
+      "options": ["Muro de Roma", "Muro de Berlín", "Gran Muralla", "Muro de Viena"],
+      "correctAnswer": 1,
+      "explanation": "Fue el Muro de Berlín."
+    },
+    {
+      "id": "28",
+      "category": "GEOGRAPHY",
+      "difficulty": "EASY",
+      "question": "¿Cuál es el continente donde está España?",
+      "options": ["Asia", "Europa", "África", "América"],
+      "correctAnswer": 1,
+      "explanation": "España está en Europa."
+    },
+    {
+      "id": "29",
+      "category": "SPORTS",
+      "difficulty": "MEDIUM",
+      "question": "¿En qué deporte compite Rafael Nadal?",
+      "options": ["Golf", "Tenis", "Fórmula 1", "Ciclismo"],
+      "correctAnswer": 1,
+      "explanation": "Rafael Nadal es tenista."
+    },
+    {
+      "id": "30",
+      "category": "ENTERTAINMENT",
+      "difficulty": "HARD",
+      "question": "¿Quién compuso la Novena Sinfonía?",
+      "options": ["Mozart", "Beethoven", "Bach", "Chopin"],
+      "correctAnswer": 1,
+      "explanation": "La compuso Beethoven."
+    },
+
+    {
+      "id": "31",
+      "category": "SCIENCE",
+      "difficulty": "EASY",
+      "question": "¿Qué estado de la materia tiene forma y volumen definidos?",
+      "options": ["Líquido", "Gas", "Sólido", "Plasma"],
+      "correctAnswer": 2,
+      "explanation": "El sólido mantiene forma y volumen."
+    },
+    {
+      "id": "32",
+      "category": "HISTORY",
+      "difficulty": "HARD",
+      "question": "¿Qué tratado puso fin a la Primera Guerra Mundial?",
+      "options": ["Tratado de París", "Tratado de Roma", "Tratado de Versalles", "Tratado de Utrecht"],
+      "correctAnswer": 2,
+      "explanation": "El Tratado de Versalles en 1919."
+    },
+    {
+      "id": "33",
+      "category": "GEOGRAPHY",
+      "difficulty": "MEDIUM",
+      "question": "¿Cuál es el desierto más grande del mundo?",
+      "options": ["Sahara", "Gobi", "Antártico", "Kalahari"],
+      "correctAnswer": 2,
+      "explanation": "El desierto antártico es el mayor."
+    },
+    {
+      "id": "34",
+      "category": "SPORTS",
+      "difficulty": "EASY",
+      "question": "¿Qué deporte utiliza un balón ovalado?",
+      "options": ["Fútbol", "Balonmano", "Rugby", "Voleibol"],
+      "correctAnswer": 2,
+      "explanation": "El rugby utiliza balón ovalado."
+    },
+    {
+      "id": "35",
+      "category": "ENTERTAINMENT",
+      "difficulty": "MEDIUM",
+      "question": "¿Cómo se llama el villano principal de El Rey León?",
+      "options": ["Mufasa", "Scar", "Simba", "Zazu"],
+      "correctAnswer": 1,
+      "explanation": "Scar es el antagonista."
+    },
+    {
+      "id": "36",
+      "category": "SCIENCE",
+      "difficulty": "MEDIUM",
+      "question": "¿Qué vitamina produce la piel con el sol?",
+      "options": ["A", "B12", "C", "D"],
+      "correctAnswer": 3,
+      "explanation": "La vitamina D se sintetiza con la luz solar."
+    },
+    {
+      "id": "37",
+      "category": "HISTORY",
+      "difficulty": "EASY",
+      "question": "¿Qué civilización construyó Machu Picchu?",
+      "options": ["Azteca", "Inca", "Maya", "Olmeca"],
+      "correctAnswer": 1,
+      "explanation": "Fue construido por los incas."
+    },
+    {
+      "id": "38",
+      "category": "GEOGRAPHY",
+      "difficulty": "MEDIUM",
+      "question": "¿Qué país tiene forma de bota?",
+      "options": ["Grecia", "Italia", "Portugal", "Croacia"],
+      "correctAnswer": 1,
+      "explanation": "Italia tiene forma de bota."
+    },
+    {
+      "id": "39",
+      "category": "SPORTS",
+      "difficulty": "HARD",
+      "question": "¿Cuántos hoyos tiene un recorrido estándar de golf?",
+      "options": ["9", "12", "18", "24"],
+      "correctAnswer": 2,
+      "explanation": "Un campo estándar tiene 18 hoyos."
+    },
+    {
+      "id": "40",
+      "category": "ENTERTAINMENT",
+      "difficulty": "EASY",
+      "question": "¿De qué color es el traje de Superman?",
+      "options": ["Rojo y azul", "Verde y negro", "Amarillo y blanco", "Morado y gris"],
+      "correctAnswer": 0,
+      "explanation": "Su traje es rojo y azul."
+    },
+
+    {
+      "id": "41",
+      "category": "SCIENCE",
+      "difficulty": "HARD",
+      "question": "¿Cuál es la velocidad aproximada de la luz?",
+      "options": ["300 km/s", "300000 km/s", "150000 km/s", "3000 km/s"],
+      "correctAnswer": 1,
+      "explanation": "La velocidad de la luz es aproximadamente 300000 km/s."
+    },
+    {
+      "id": "42",
+      "category": "HISTORY",
+      "difficulty": "MEDIUM",
+      "question": "¿Quién fue el primer presidente de Estados Unidos?",
+      "options": ["Lincoln", "Washington", "Jefferson", "Adams"],
+      "correctAnswer": 1,
+      "explanation": "George Washington fue el primero."
+    },
+    {
+      "id": "43",
+      "category": "GEOGRAPHY",
+      "difficulty": "EASY",
+      "question": "¿Cuál es la capital de Japón?",
+      "options": ["Tokio", "Kioto", "Osaka", "Nagoya"],
+      "correctAnswer": 0,
+      "explanation": "La capital es Tokio."
+    },
+    {
+      "id": "44",
+      "category": "SPORTS",
+      "difficulty": "MEDIUM",
+      "question": "¿Cuántas vueltas tiene una carrera de Fórmula 1 aproximadamente?",
+      "options": ["Depende del circuito", "10", "25", "200"],
+      "correctAnswer": 0,
+      "explanation": "El número de vueltas varía según el circuito."
+    },
+    {
+      "id": "45",
+      "category": "ENTERTAINMENT",
+      "difficulty": "MEDIUM",
+      "question": "¿Quién pintó La Gioconda?",
+      "options": ["Van Gogh", "Picasso", "Da Vinci", "Goya"],
+      "correctAnswer": 2,
+      "explanation": "La pintó Leonardo da Vinci."
+    },
+    {
+      "id": "46",
+      "category": "SCIENCE",
+      "difficulty": "EASY",
+      "question": "¿Qué planeta es conocido como el planeta rojo?",
+      "options": ["Marte", "Venus", "Saturno", "Neptuno"],
+      "correctAnswer": 0,
+      "explanation": "Marte recibe ese nombre por su color."
+    },
+    {
+      "id": "47",
+      "category": "HISTORY",
+      "difficulty": "MEDIUM",
+      "question": "¿En qué siglo comenzó la Revolución Industrial?",
+      "options": ["XVII", "XVIII", "XIX", "XX"],
+      "correctAnswer": 1,
+      "explanation": "Comenzó en el siglo XVIII."
+    },
+    {
+      "id": "48",
+      "category": "GEOGRAPHY",
+      "difficulty": "MEDIUM",
+      "question": "¿Qué mar baña la costa este de España?",
+      "options": ["Cantábrico", "Mediterráneo", "Báltico", "Rojo"],
+      "correctAnswer": 1,
+      "explanation": "Es el mar Mediterráneo."
+    },
+    {
+      "id": "49",
+      "category": "SPORTS",
+      "difficulty": "EASY",
+      "question": "¿Qué deporte practica un nadador?",
+      "options": ["Atletismo", "Natación", "Remo", "Triatlón"],
+      "correctAnswer": 1,
+      "explanation": "Practica natación."
+    },
+    {
+      "id": "50",
+      "category": "ENTERTAINMENT",
+      "difficulty": "MEDIUM",
+      "question": "¿Cómo se llama la princesa de Star Wars?",
+      "options": ["Leia", "Padmé", "Rey", "Jyn"],
+      "correctAnswer": 0,
+      "explanation": "La princesa es Leia."
+    }
+  ]
+}
+
