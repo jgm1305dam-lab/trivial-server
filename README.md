@@ -1,3 +1,5 @@
+Enlace Youtube: https://youtu.be/5r7VUHX47-U
+
 # Trivial Multijugador – Servidor
 
 Servidor Ktor que expone un trivial por WebSocket para un cliente de escritorio en Kotlin/Compose. Gestiona la lógica de partida en modo PVE (un jugador) con filtrado de preguntas, cálculo de puntuación y envío de resultados al cliente.
